@@ -30,9 +30,9 @@ This repository contains progressive robotics experiments designed to develop pr
 1. **🕹️ Microcontroller programming
 2. **🧠 Intelligence Layer** - Analyzes student complaints and generates actionable recommendations based on institutional capacity
 3. **⚡ Electronic circuits
-4. **🖼️🦻 Sensor integration
+4. **🦻 Sensor integration
 5. **🦾 Motor control
-6. **🖼️🫱🏾‍🫲🏾 Embedded system design
+6. **🖼️ Embedded system design
 7. **🫱🏾‍🫲🏾 Hardware-software interaction
 
 Each project focuses on one or more electronic components, exploring how they work both electrically and programmatically using Arduino C/C++.
